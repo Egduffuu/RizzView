@@ -1,4 +1,4 @@
-# WebXView
+# RizzView
 a WebView exploit that uses the "add person" button on signin
 1. click on "add person" on signin (if u dont have this, it wont work for u)
 2. click on "signin options" then click "signin withh GitHub"
