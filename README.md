@@ -1,5 +1,5 @@
 # RizzView
-a WebView exploit that uses the "add person" button on signin
+a WebView exploit that uses the "add person" button on signin ... HOW I FOUND IT!!!
 so, i was watching dumb unenrollment vids on youtube i knew would not work, until there was one that utilised the ReadAndWrite signin to get an unblocked webview. so i made one that works - without even signing in!
 # INTRUCTIONS!!!
 1. click on "add person" on signin (if u dont have this, it wont work for u)
